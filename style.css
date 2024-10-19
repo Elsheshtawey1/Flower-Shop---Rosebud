@@ -932,7 +932,7 @@ body.dark-mode .Meet-Our-Experts .box .info span,
 body.dark-mode .Meet-Our-Experts .title h2,
 body.dark-mode .Meet-Our-Experts .title h5,
 body.dark-mode .Meet-Our-Experts .box .info h6 {
-    color: #ffffff;
+    color: #ffffff!important;
     font-weight: 600;
 }
 
